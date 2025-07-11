@@ -6,10 +6,7 @@ Hi there! 👋 I'm **Anurag Jha**, a passionate **Full Stack Developer** 🚀 wh
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anurag_jha1007?utm_source=qr&igsh=bGVhNHZsMnZoMzI2)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar-a10923327/)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Shadow_mafia_aj?t=7DN6lpdl8tbXsXfXg3ZjGw&s=08)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkumarj2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/anurag_jha1007?utm_source=qr&igsh=bGVhNHZsMnZoMzI2)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar-a10923327/)  [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Shadow_mafia_aj?t=7DN6lpdl8tbXsXfXg3ZjGw&s=08) [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuragkumarj2006@gmail.com)
 
 ---
 
