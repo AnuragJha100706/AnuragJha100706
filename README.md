@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anurag Jha, a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I love turning ideas into real-world applications using tools like React, Node.js, MongoDB, and Express. 
+Hi there! 👋 I'm Anurag Jha, a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. I love turning ideas into real-world applications using tools like React, Node.js, MongoDB, and Express. 
 
 
 ## 🌐 Socials:
